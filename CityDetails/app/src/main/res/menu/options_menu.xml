@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Switch to New York City activity -->
+    <item
+        android:id="@+id/action_NewYork"
+        android:title="New York City" />
+    <!-- Switch to Orlando activity -->
+    <item
+        android:id="@+id/action_Orlando"
+        android:title="Orlando" />
+</menu>
+

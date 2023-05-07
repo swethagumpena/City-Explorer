@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">CityDetails</string>
+    <string-array name="NYCTouristAttractions">
+        <item>Statue of Liberty</item>
+        <item>Empire State Building</item>
+        <item>Metropolitan Museum of Art</item>
+        <item>Central Park</item>
+        <item>Rockefeller Center</item>
+    </string-array>
+    <string-array name="NYCLinks">
+        <item>https://www.nps.gov/stli/index.htm</item>
+        <item>https://www.esbnyc.com/</item>
+        <item>https://www.metmuseum.org/</item>
+        <item>https://www.centralparknyc.org/</item>
+        <item>https://www.rockefellercenter.com/</item>
+    </string-array>
+    <string-array name="OrlandoTouristAttractions">
+        <item>Gatorland</item>
+        <item>Discovery Cove</item>
+        <item>SeaWorld Orlando</item>
+        <item>Kennedy Space Center</item>
+        <item>LEGOLAND Florida Resort</item>
+    </string-array>
+    <string-array name="OrlandoLinks">
+        <item>https://www.gatorland.com/</item>
+        <item>https://discoverycove.com/orlando/</item>
+        <item>https://seaworld.com/orlando/</item>
+        <item>https://www.kennedyspacecenter.com/</item>
+        <item>https://www.legoland.com/florida/</item>
+    </string-array>
+</resources>
+
